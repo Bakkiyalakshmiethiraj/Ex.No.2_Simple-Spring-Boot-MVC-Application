@@ -1,5 +1,9 @@
 # Exp_2_Simple-Spring-Boot-MVC-Application
 
+**Name:** Bakkiyalakshmi E
+
+**Reg No:** 212223220012
+
 ## AIM:
 To develop a Simple Spring Boot MVC (Model-View-Controller) Application that uses a Controller to handle HTTP requests, a Model to pass data, and a View (Thymeleaf) to render dynamic HTML pages.
 
@@ -140,5 +144,10 @@ public class HomeController {
 
 ### application.properties:
  server.port=8081
+ ### Output:
+ <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/47f609e9-b5e5-46d9-a08b-2c86d2e639fa" />
+![Uploading image.png…]()
 
+### Result:
+Thus, a simple Spring Boot MVC application was successfully developed using Spring Web and Thymeleaf in IntelliJ IDEA. The Controller handled the HTTP GET request, passed dynamic data through the Model, and Thymeleaf rendered the data in the HTML View successfully.
 
