@@ -145,8 +145,9 @@ public class HomeController {
 ### application.properties:
  server.port=8081
  ### Output:
+ <img width="1917" height="991" alt="Screenshot 2026-09-03 105338" src="https://github.com/user-attachments/assets/6b1ef12b-cdde-4762-acb8-a81b86bfd861" />
+
  <img width="1917" height="1016" alt="image" src="https://github.com/user-attachments/assets/47f609e9-b5e5-46d9-a08b-2c86d2e639fa" />
-![Uploading image.png…]()
 
 ### Result:
 Thus, a simple Spring Boot MVC application was successfully developed using Spring Web and Thymeleaf in IntelliJ IDEA. The Controller handled the HTTP GET request, passed dynamic data through the Model, and Thymeleaf rendered the data in the HTML View successfully.
